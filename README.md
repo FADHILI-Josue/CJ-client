@@ -29,7 +29,7 @@ A modern savings management system for customers of Credit Jambo Ltd, built with
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/FADHILI-Josue/CJ-client.git client-app
    cd client-app/frontend
    ```
 
